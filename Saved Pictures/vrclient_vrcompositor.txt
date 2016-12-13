@@ -1,0 +1,6 @@
+Fri Jan 13 2017 00:32:06.387 - //=====================================================================================================================
+Fri Jan 13 2017 00:32:06.387 - vrclient startup with PID=5440, type=VRApplication_Background, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:32:06.471 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:33:27.553 - //=====================================================================================================================
+Fri Jan 13 2017 00:33:27.554 - vrclient startup with PID=4236, type=VRApplication_Background, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:33:27.574 - Returning HmdNotFound because the client-side presence check failed.

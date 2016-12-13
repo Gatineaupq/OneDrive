@@ -1,0 +1,999 @@
+Wed Jan 11 2017 08:28:28.836 - //=====================================================================================================================
+Wed Jan 11 2017 08:28:28.837 - vrclient startup with PID=5072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 08:28:28.854 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 09:05:03.925 - //=====================================================================================================================
+Wed Jan 11 2017 09:05:03.930 - vrclient startup with PID=732, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 09:05:09.393 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 09:05:40.347 - //=====================================================================================================================
+Wed Jan 11 2017 09:05:40.347 - vrclient startup with PID=732, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 09:05:40.360 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 09:59:20.570 - //=====================================================================================================================
+Wed Jan 11 2017 09:59:20.570 - vrclient startup with PID=732, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 09:59:20.585 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 09:59:20.628 - //=====================================================================================================================
+Wed Jan 11 2017 09:59:20.628 - vrclient startup with PID=732, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 09:59:20.642 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 09:59:20.685 - //=====================================================================================================================
+Wed Jan 11 2017 09:59:20.685 - vrclient startup with PID=732, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 09:59:20.700 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 09:59:20.745 - //=====================================================================================================================
+Wed Jan 11 2017 09:59:20.745 - vrclient startup with PID=732, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 09:59:20.760 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 13:43:57.744 - //=====================================================================================================================
+Wed Jan 11 2017 13:43:57.744 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 13:43:58.344 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 13:44:34.794 - //=====================================================================================================================
+Wed Jan 11 2017 13:44:34.794 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 13:44:34.814 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:46:11.319 - //=====================================================================================================================
+Wed Jan 11 2017 21:46:11.319 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:46:11.336 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:46:11.386 - //=====================================================================================================================
+Wed Jan 11 2017 21:46:11.391 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:46:11.406 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:46:11.461 - //=====================================================================================================================
+Wed Jan 11 2017 21:46:11.461 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:46:11.481 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:46:11.531 - //=====================================================================================================================
+Wed Jan 11 2017 21:46:11.531 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:46:11.551 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:46:11.606 - //=====================================================================================================================
+Wed Jan 11 2017 21:46:11.606 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:46:11.631 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:57:58.625 - //=====================================================================================================================
+Wed Jan 11 2017 21:57:58.625 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:57:58.650 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:57:58.700 - //=====================================================================================================================
+Wed Jan 11 2017 21:57:58.700 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:57:58.729 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:57:58.786 - //=====================================================================================================================
+Wed Jan 11 2017 21:57:58.787 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:57:58.807 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:57:58.856 - //=====================================================================================================================
+Wed Jan 11 2017 21:57:58.856 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:57:58.878 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:58:01.281 - //=====================================================================================================================
+Wed Jan 11 2017 21:58:01.281 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:58:01.302 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:58:01.348 - //=====================================================================================================================
+Wed Jan 11 2017 21:58:01.348 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:58:01.363 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 21:58:01.412 - //=====================================================================================================================
+Wed Jan 11 2017 21:58:01.412 - vrclient startup with PID=7072, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 21:58:01.428 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 22:15:38.118 - //=====================================================================================================================
+Wed Jan 11 2017 22:15:38.123 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 22:15:39.992 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 22:16:01.995 - //=====================================================================================================================
+Wed Jan 11 2017 22:16:01.995 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 22:16:02.012 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 23:08:42.454 - //=====================================================================================================================
+Wed Jan 11 2017 23:08:42.454 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 23:08:42.469 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 23:08:42.512 - //=====================================================================================================================
+Wed Jan 11 2017 23:08:42.512 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 23:08:42.529 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 23:08:42.573 - //=====================================================================================================================
+Wed Jan 11 2017 23:08:42.574 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 23:08:42.589 - Returning HmdNotFound because the client-side presence check failed.
+Wed Jan 11 2017 23:08:42.635 - //=====================================================================================================================
+Wed Jan 11 2017 23:08:42.636 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Wed Jan 11 2017 23:08:42.650 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 00:01:04.379 - //=====================================================================================================================
+Thu Jan 12 2017 00:01:04.379 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 00:01:04.402 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 00:01:04.470 - //=====================================================================================================================
+Thu Jan 12 2017 00:01:04.470 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 00:01:04.489 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 00:01:04.536 - //=====================================================================================================================
+Thu Jan 12 2017 00:01:04.536 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 00:01:04.551 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 00:01:04.597 - //=====================================================================================================================
+Thu Jan 12 2017 00:01:04.597 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 00:01:04.613 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:26:59.201 - //=====================================================================================================================
+Thu Jan 12 2017 09:26:59.201 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:26:59.215 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:26:59.266 - //=====================================================================================================================
+Thu Jan 12 2017 09:26:59.266 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:26:59.285 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:26:59.337 - //=====================================================================================================================
+Thu Jan 12 2017 09:26:59.338 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:26:59.353 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:26:59.397 - //=====================================================================================================================
+Thu Jan 12 2017 09:26:59.397 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:26:59.414 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:27:02.075 - //=====================================================================================================================
+Thu Jan 12 2017 09:27:02.075 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:27:02.091 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:27:02.138 - //=====================================================================================================================
+Thu Jan 12 2017 09:27:02.139 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:27:02.155 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:27:02.200 - //=====================================================================================================================
+Thu Jan 12 2017 09:27:02.200 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:27:02.216 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:30:17.285 - //=====================================================================================================================
+Thu Jan 12 2017 09:30:17.285 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:30:17.305 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:30:17.350 - //=====================================================================================================================
+Thu Jan 12 2017 09:30:17.350 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:30:17.375 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 09:30:17.426 - //=====================================================================================================================
+Thu Jan 12 2017 09:30:17.427 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 09:30:17.440 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 15:05:59.891 - //=====================================================================================================================
+Thu Jan 12 2017 15:05:59.891 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 15:05:59.907 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 15:05:59.953 - //=====================================================================================================================
+Thu Jan 12 2017 15:05:59.954 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 15:05:59.970 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 15:06:00.031 - //=====================================================================================================================
+Thu Jan 12 2017 15:06:00.031 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 15:06:00.049 - Returning HmdNotFound because the client-side presence check failed.
+Thu Jan 12 2017 15:06:00.097 - //=====================================================================================================================
+Thu Jan 12 2017 15:06:00.097 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Thu Jan 12 2017 15:06:00.113 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:46:57.662 - //=====================================================================================================================
+Fri Jan 13 2017 00:46:57.662 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:46:57.684 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:46:57.755 - //=====================================================================================================================
+Fri Jan 13 2017 00:46:57.755 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:46:57.782 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:46:57.849 - //=====================================================================================================================
+Fri Jan 13 2017 00:46:57.849 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:46:57.871 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:53:17.632 - //=====================================================================================================================
+Fri Jan 13 2017 00:53:17.632 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:53:17.667 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:53:17.761 - //=====================================================================================================================
+Fri Jan 13 2017 00:53:17.761 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:53:17.784 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 00:53:17.850 - //=====================================================================================================================
+Fri Jan 13 2017 00:53:17.850 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:53:17.871 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:47.878 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:47.879 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:47.938 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.064 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.065 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:48.101 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.218 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.218 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:48.250 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.382 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.382 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:48.413 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.559 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.559 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:48.608 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.670 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.671 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:48.697 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.841 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.842 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:48.880 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:48.950 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:48.950 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.032 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.124 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.124 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.151 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.219 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.220 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.245 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.339 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.339 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.362 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.418 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.418 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.440 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.512 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.512 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.534 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.627 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.627 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.651 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.740 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.741 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.769 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:16:49.854 - //=====================================================================================================================
+Fri Jan 13 2017 03:16:49.855 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:16:49.878 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:15.631 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:15.632 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:15.651 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:15.770 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:15.770 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:15.791 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:15.846 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:15.847 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:15.867 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:15.947 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:15.947 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:15.972 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:25.935 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:25.935 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:25.963 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:26.065 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:26.066 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:26.095 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 03:27:26.177 - //=====================================================================================================================
+Fri Jan 13 2017 03:27:26.178 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 03:27:26.209 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:38.036 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:38.037 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:38.112 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:41.019 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:41.019 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:41.040 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:41.588 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:41.588 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:41.610 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:45.478 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:45.479 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:45.716 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:46.118 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:46.118 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:46.143 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:46.888 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:46.888 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:46.914 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:47.354 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:47.354 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:47.381 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:47.844 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:47.844 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:47.871 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:47.946 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:47.946 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:47.996 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:48.065 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:48.065 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:48.098 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:48.895 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:48.895 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:48.984 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:49.382 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:49.382 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:49.408 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:49.464 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:49.464 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:49.990 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:50.594 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:50.594 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:50.650 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:51.198 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:51.198 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:51.219 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:51.510 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:51.510 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:51.531 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:51.643 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:51.643 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:51.665 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:52.657 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:52.657 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:52.678 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:52.771 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:52.771 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:52.795 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:52.890 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:52.890 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:52.909 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:53.376 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:53.376 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:53.408 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:53.492 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:53.492 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:53.518 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:53.586 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:53.587 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:53.615 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:57.830 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:57.830 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:57.863 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.182 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.182 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.236 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.350 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.350 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.412 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.542 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.542 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.565 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.649 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.649 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.670 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.735 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.735 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.758 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.822 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.822 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.844 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:58.972 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:58.972 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:58.995 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.054 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.054 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.076 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.135 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.135 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.154 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.215 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.215 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.234 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.294 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.294 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.316 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.375 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.375 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.394 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.452 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.452 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.472 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.529 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.530 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.549 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.605 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.605 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.623 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.694 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.694 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.715 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.773 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.773 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.793 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.850 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.850 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:38:59.902 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:38:59.991 - //=====================================================================================================================
+Fri Jan 13 2017 08:38:59.991 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.043 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:00.108 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:00.108 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.129 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:00.186 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:00.186 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.208 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:00.284 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:00.284 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.304 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:00.389 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:00.389 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.411 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:00.569 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:00.569 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.605 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:00.677 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:00.677 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:00.698 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.020 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.021 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.041 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.169 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.169 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.190 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.383 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.383 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.403 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.471 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.472 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.494 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.558 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.558 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.580 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.686 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.686 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.708 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.781 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.781 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.799 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.890 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.890 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:01.914 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:01.981 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:01.981 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.004 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.112 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.112 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.132 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.190 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.190 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.211 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.269 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.269 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.287 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.344 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.345 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.398 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.489 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.489 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.515 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.578 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.578 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.598 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.651 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.651 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.670 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.725 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.725 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.743 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.804 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.804 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.821 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:02.885 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:02.885 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:02.903 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:03.086 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:03.086 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:03.105 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:03.168 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:03.168 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:03.187 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:03.391 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:03.392 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:03.410 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:03.471 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:03.471 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:03.490 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:04.227 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:04.227 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:04.247 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:04.331 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:04.331 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:04.352 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:04.415 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:04.415 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:04.435 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 08:39:04.605 - //=====================================================================================================================
+Fri Jan 13 2017 08:39:04.605 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 08:39:04.624 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:08:58.524 - //=====================================================================================================================
+Fri Jan 13 2017 09:08:58.525 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:08:58.545 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:08:58.641 - //=====================================================================================================================
+Fri Jan 13 2017 09:08:58.641 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:08:58.662 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:08:58.721 - //=====================================================================================================================
+Fri Jan 13 2017 09:08:58.721 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:08:58.739 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:08:58.789 - //=====================================================================================================================
+Fri Jan 13 2017 09:08:58.790 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:08:58.806 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:08:58.852 - //=====================================================================================================================
+Fri Jan 13 2017 09:08:58.852 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:08:58.866 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:38:58.294 - //=====================================================================================================================
+Fri Jan 13 2017 09:38:58.294 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:38:58.318 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:38:58.420 - //=====================================================================================================================
+Fri Jan 13 2017 09:38:58.420 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:38:58.446 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:38:58.513 - //=====================================================================================================================
+Fri Jan 13 2017 09:38:58.513 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:38:58.540 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 09:38:58.604 - //=====================================================================================================================
+Fri Jan 13 2017 09:38:58.605 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 09:38:58.638 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 10:38:55.707 - //=====================================================================================================================
+Fri Jan 13 2017 10:38:55.708 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 10:38:55.728 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 10:38:55.807 - //=====================================================================================================================
+Fri Jan 13 2017 10:38:55.807 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 10:38:55.826 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 10:38:55.880 - //=====================================================================================================================
+Fri Jan 13 2017 10:38:55.881 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 10:38:55.900 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 10:38:55.953 - //=====================================================================================================================
+Fri Jan 13 2017 10:38:55.953 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 10:38:55.970 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 10:38:56.019 - //=====================================================================================================================
+Fri Jan 13 2017 10:38:56.019 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 10:38:56.038 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:08:53.616 - //=====================================================================================================================
+Fri Jan 13 2017 11:08:53.616 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:08:53.635 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:08:53.700 - //=====================================================================================================================
+Fri Jan 13 2017 11:08:53.700 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:08:53.718 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:08:53.769 - //=====================================================================================================================
+Fri Jan 13 2017 11:08:53.770 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:08:53.788 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:08:53.839 - //=====================================================================================================================
+Fri Jan 13 2017 11:08:53.839 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:08:53.857 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:08:53.908 - //=====================================================================================================================
+Fri Jan 13 2017 11:08:53.908 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:08:53.926 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:39:18.870 - //=====================================================================================================================
+Fri Jan 13 2017 11:39:18.870 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:39:18.885 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:39:18.965 - //=====================================================================================================================
+Fri Jan 13 2017 11:39:18.965 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:39:18.984 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:39:19.033 - //=====================================================================================================================
+Fri Jan 13 2017 11:39:19.033 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:39:19.049 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:39:19.084 - //=====================================================================================================================
+Fri Jan 13 2017 11:39:19.084 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:39:19.099 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 11:39:19.142 - //=====================================================================================================================
+Fri Jan 13 2017 11:39:19.142 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 11:39:19.155 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 14:56:27.867 - //=====================================================================================================================
+Fri Jan 13 2017 14:56:27.868 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 14:56:27.883 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 14:56:27.953 - //=====================================================================================================================
+Fri Jan 13 2017 14:56:27.953 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 14:56:27.968 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 14:56:28.014 - //=====================================================================================================================
+Fri Jan 13 2017 14:56:28.015 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 14:56:28.028 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 14:56:28.075 - //=====================================================================================================================
+Fri Jan 13 2017 14:56:28.075 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 14:56:28.094 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 14:56:28.146 - //=====================================================================================================================
+Fri Jan 13 2017 14:56:28.146 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 14:56:28.161 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:26:49.159 - //=====================================================================================================================
+Fri Jan 13 2017 15:26:49.160 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:26:49.180 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:26:49.265 - //=====================================================================================================================
+Fri Jan 13 2017 15:26:49.265 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:26:49.284 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:26:49.334 - //=====================================================================================================================
+Fri Jan 13 2017 15:26:49.334 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:26:49.350 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:26:49.391 - //=====================================================================================================================
+Fri Jan 13 2017 15:26:49.392 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:26:49.408 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:26:49.450 - //=====================================================================================================================
+Fri Jan 13 2017 15:26:49.450 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:26:49.464 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:10.836 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:10.836 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:10.850 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:10.950 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:10.950 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:10.966 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.008 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.008 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.024 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.069 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.069 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.085 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.130 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.130 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.145 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.185 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.186 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.199 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.239 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.239 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.253 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.292 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.292 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.306 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.358 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.358 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.376 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:36:11.435 - //=====================================================================================================================
+Fri Jan 13 2017 15:36:11.435 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:36:11.453 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:37:25.269 - //=====================================================================================================================
+Fri Jan 13 2017 15:37:25.269 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:37:25.284 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:37:25.325 - //=====================================================================================================================
+Fri Jan 13 2017 15:37:25.325 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:37:25.338 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:37:25.380 - //=====================================================================================================================
+Fri Jan 13 2017 15:37:25.380 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:37:25.395 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:37:25.436 - //=====================================================================================================================
+Fri Jan 13 2017 15:37:25.436 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:37:25.449 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 15:37:25.490 - //=====================================================================================================================
+Fri Jan 13 2017 15:37:25.490 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 15:37:25.503 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 16:22:12.711 - //=====================================================================================================================
+Fri Jan 13 2017 16:22:12.711 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 16:22:12.725 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 16:22:12.801 - //=====================================================================================================================
+Fri Jan 13 2017 16:22:12.802 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 16:22:12.816 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 16:22:12.868 - //=====================================================================================================================
+Fri Jan 13 2017 16:22:12.869 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 16:22:12.887 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 16:22:12.932 - //=====================================================================================================================
+Fri Jan 13 2017 16:22:12.932 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 16:22:12.946 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 16:22:12.987 - //=====================================================================================================================
+Fri Jan 13 2017 16:22:12.988 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 16:22:13.003 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:29.658 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:29.658 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:29.674 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:29.756 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:29.757 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:29.774 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:29.823 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:29.824 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:29.839 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:29.885 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:29.885 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:29.904 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:29.944 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:29.945 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:29.962 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:30.304 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:30.304 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:30.325 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:30.401 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:30.401 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:30.422 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:30.482 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:30.482 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:30.500 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:30.552 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:30.552 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:30.567 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:44:30.608 - //=====================================================================================================================
+Fri Jan 13 2017 20:44:30.608 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:44:30.623 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:55.696 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:55.696 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:55.714 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:55.811 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:55.811 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:55.828 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:55.878 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:55.878 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:55.896 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:55.950 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:55.950 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:55.967 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:56.018 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:56.018 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:56.037 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:57.252 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:57.252 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:57.267 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:57.309 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:57.309 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:57.322 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:57.365 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:57.365 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:57.378 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:57.438 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:57.438 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:57.451 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 20:51:57.491 - //=====================================================================================================================
+Fri Jan 13 2017 20:51:57.491 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 20:51:57.505 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 21:21:56.368 - //=====================================================================================================================
+Fri Jan 13 2017 21:21:56.368 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 21:21:56.382 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 21:21:56.425 - //=====================================================================================================================
+Fri Jan 13 2017 21:21:56.425 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 21:21:56.442 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 21:21:56.486 - //=====================================================================================================================
+Fri Jan 13 2017 21:21:56.487 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 21:21:56.504 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 21:21:56.553 - //=====================================================================================================================
+Fri Jan 13 2017 21:21:56.553 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 21:21:56.573 - Returning HmdNotFound because the client-side presence check failed.
+Fri Jan 13 2017 21:21:56.618 - //=====================================================================================================================
+Fri Jan 13 2017 21:21:56.619 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 21:21:56.641 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 13:43:54.151 - //=====================================================================================================================
+Sat Jan 14 2017 13:43:54.151 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 13:43:54.165 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 13:43:54.212 - //=====================================================================================================================
+Sat Jan 14 2017 13:43:54.212 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 13:43:54.230 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 13:43:54.275 - //=====================================================================================================================
+Sat Jan 14 2017 13:43:54.275 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 13:43:54.291 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 13:43:54.346 - //=====================================================================================================================
+Sat Jan 14 2017 13:43:54.346 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 13:43:54.360 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 13:43:54.401 - //=====================================================================================================================
+Sat Jan 14 2017 13:43:54.402 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 13:43:54.415 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:13:50.624 - //=====================================================================================================================
+Sat Jan 14 2017 14:13:50.624 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:13:50.638 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:13:50.753 - //=====================================================================================================================
+Sat Jan 14 2017 14:13:50.753 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:13:50.773 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:13:50.826 - //=====================================================================================================================
+Sat Jan 14 2017 14:13:50.826 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:13:50.842 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:13:50.879 - //=====================================================================================================================
+Sat Jan 14 2017 14:13:50.880 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:13:50.896 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:13:50.939 - //=====================================================================================================================
+Sat Jan 14 2017 14:13:50.939 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:13:50.955 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:14:27.557 - //=====================================================================================================================
+Sat Jan 14 2017 14:14:27.557 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:14:27.574 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:14:27.631 - //=====================================================================================================================
+Sat Jan 14 2017 14:14:27.631 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:14:27.647 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:14:27.691 - //=====================================================================================================================
+Sat Jan 14 2017 14:14:27.691 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:14:27.706 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:14:27.750 - //=====================================================================================================================
+Sat Jan 14 2017 14:14:27.750 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:14:27.766 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:14:27.810 - //=====================================================================================================================
+Sat Jan 14 2017 14:14:27.810 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:14:27.827 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:47.888 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:47.889 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:47.905 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:47.986 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:47.986 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:48.003 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:48.051 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:48.051 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:48.068 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:48.112 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:48.112 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:48.126 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:48.171 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:48.171 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:48.188 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:51.393 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:51.393 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:51.409 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:51.456 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:51.456 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:51.472 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:51.516 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:51.517 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:51.532 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:51.578 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:51.578 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:51.594 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:29:51.636 - //=====================================================================================================================
+Sat Jan 14 2017 14:29:51.636 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:29:51.652 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:44:57.579 - //=====================================================================================================================
+Sat Jan 14 2017 14:44:57.580 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:44:57.593 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:44:57.679 - //=====================================================================================================================
+Sat Jan 14 2017 14:44:57.679 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:44:57.696 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:44:57.747 - //=====================================================================================================================
+Sat Jan 14 2017 14:44:57.747 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:44:57.764 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:44:57.806 - //=====================================================================================================================
+Sat Jan 14 2017 14:44:57.806 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:44:57.821 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:44:57.859 - //=====================================================================================================================
+Sat Jan 14 2017 14:44:57.860 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:44:57.874 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:45:01.319 - //=====================================================================================================================
+Sat Jan 14 2017 14:45:01.319 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:45:01.333 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:45:01.377 - //=====================================================================================================================
+Sat Jan 14 2017 14:45:01.377 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:45:01.390 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:45:01.431 - //=====================================================================================================================
+Sat Jan 14 2017 14:45:01.431 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:45:01.445 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:45:01.485 - //=====================================================================================================================
+Sat Jan 14 2017 14:45:01.485 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:45:01.499 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 14:45:01.541 - //=====================================================================================================================
+Sat Jan 14 2017 14:45:01.541 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 14:45:01.555 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:28.218 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:28.219 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:28.232 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:28.290 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:28.291 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:28.304 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:28.346 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:28.346 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:28.362 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:28.408 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:28.408 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:28.425 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:28.469 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:28.470 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:28.483 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:32.661 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:32.661 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:32.676 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:32.718 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:32.718 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:32.731 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:32.771 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:32.772 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:32.785 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:32.825 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:32.825 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:32.839 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:00:32.880 - //=====================================================================================================================
+Sat Jan 14 2017 15:00:32.880 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:00:32.893 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:15:58.054 - //=====================================================================================================================
+Sat Jan 14 2017 15:15:58.054 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:15:58.068 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:15:58.156 - //=====================================================================================================================
+Sat Jan 14 2017 15:15:58.156 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:15:58.172 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:15:58.222 - //=====================================================================================================================
+Sat Jan 14 2017 15:15:58.223 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:15:58.240 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:15:58.285 - //=====================================================================================================================
+Sat Jan 14 2017 15:15:58.285 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:15:58.298 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:15:58.338 - //=====================================================================================================================
+Sat Jan 14 2017 15:15:58.338 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:15:58.351 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:16:00.801 - //=====================================================================================================================
+Sat Jan 14 2017 15:16:00.801 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:16:00.823 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:16:00.878 - //=====================================================================================================================
+Sat Jan 14 2017 15:16:00.878 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:16:00.895 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:16:00.938 - //=====================================================================================================================
+Sat Jan 14 2017 15:16:00.938 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:16:00.953 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:16:00.993 - //=====================================================================================================================
+Sat Jan 14 2017 15:16:00.993 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:16:01.006 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:16:01.046 - //=====================================================================================================================
+Sat Jan 14 2017 15:16:01.047 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:16:01.060 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:27.752 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:27.753 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:27.767 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:27.855 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:27.855 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:27.869 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:27.915 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:27.916 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:27.932 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:27.977 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:27.977 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:27.992 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:28.041 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:28.041 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:28.058 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:30.485 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:30.485 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:30.507 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:30.556 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:30.556 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:30.570 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:30.611 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:30.611 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:30.625 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:30.665 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:30.665 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:30.679 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:31:30.719 - //=====================================================================================================================
+Sat Jan 14 2017 15:31:30.719 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:31:30.733 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:27.820 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:27.820 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:27.837 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:27.885 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:27.886 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:27.903 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:27.954 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:27.954 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:27.972 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:28.019 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:28.019 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:28.033 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:28.074 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:28.074 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:28.087 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:31.337 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:31.337 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:31.351 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:31.394 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:31.394 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:31.408 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:31.449 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:31.449 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:31.462 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:31.503 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:31.504 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:31.517 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 15:46:31.557 - //=====================================================================================================================
+Sat Jan 14 2017 15:46:31.558 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 15:46:31.571 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:42.370 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:42.371 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:42.383 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:42.445 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:42.445 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:42.462 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:42.512 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:42.513 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:42.531 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:42.581 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:42.581 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:42.596 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:42.637 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:42.637 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:42.650 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:46.524 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:46.524 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:46.556 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:46.602 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:46.602 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:46.615 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:46.656 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:46.657 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:46.671 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:46.712 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:46.712 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:46.726 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:01:46.768 - //=====================================================================================================================
+Sat Jan 14 2017 16:01:46.768 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:01:46.781 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:49.983 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:49.983 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:49.997 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:50.061 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:50.061 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:50.078 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:50.126 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:50.126 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:50.142 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:50.193 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:50.193 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:50.211 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:50.259 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:50.259 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:50.275 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:54.016 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:54.016 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:54.031 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:54.079 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:54.079 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:54.092 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:54.132 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:54.132 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:54.146 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:54.187 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:54.187 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:54.201 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:16:54.241 - //=====================================================================================================================
+Sat Jan 14 2017 16:16:54.241 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:16:54.254 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:06.288 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:06.288 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:06.304 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:06.398 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:06.398 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:06.418 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:06.467 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:06.467 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:06.485 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:06.530 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:06.530 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:06.546 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:06.589 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:06.590 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:06.605 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:09.798 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:09.798 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:09.813 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:09.854 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:09.854 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:09.868 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:09.908 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:09.908 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:09.922 - Returning HmdNotFound because the client-side presence check failed.
+Sat Jan 14 2017 16:32:09.962 - //=====================================================================================================================
+Sat Jan 14 2017 16:32:09.962 - vrclient startup with PID=6128, type=VRApplication_SteamWatchdog, config=C:\Program Files (x86)\Steam\config
+Sat Jan 14 2017 16:32:09.975 - Returning HmdNotFound because the client-side presence check failed.

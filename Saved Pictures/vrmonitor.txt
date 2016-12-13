@@ -1,0 +1,175 @@
+Tue Jan 10 2017 15:50:56.481 - ================================================================================================
+Tue Jan 10 2017 15:50:56.482 - ================================================================================================
+Tue Jan 10 2017 15:50:56.482 - vrmonitor starting up with config=C:\Program Files (x86)\Steam\config
+Tue Jan 10 2017 15:50:56.482 - Runtime: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\
+Tue Jan 10 2017 15:50:56.483 - Tools Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools exists.
+Tue Jan 10 2017 15:50:56.483 - Demo Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\demo exists.
+Tue Jan 10 2017 15:50:58.702 - AUDIO: Refreshing audio devices
+Tue Jan 10 2017 15:50:58.745 - AUDIO: Detected 2 playback and 5 record devices
+Tue Jan 10 2017 15:50:58.752 - Default Playback Audio Device: {0.0.0.00000000}.{873ce428-dfe5-4cfc-b1ac-ac443fd84996}
+Tue Jan 10 2017 15:50:58.752 - 	-->Speaker/HP (Realtek High Definition Audio),0,Speaker/HP,Realtek High Definition Audio,{0.0.0.00000000}.{873ce428-dfe5-4cfc-b1ac-ac443fd84996}
+Tue Jan 10 2017 15:50:58.752 - Default Record Audio Device: {0.0.1.00000000}.{93a74e6d-e36a-4597-989f-e3b312fdbc98}
+Tue Jan 10 2017 15:50:58.752 - 	Stereo Mix (Realtek High Definition Audio),0,Stereo Mix,Realtek High Definition Audio,{0.0.1.00000000}.{5d1c11a4-dcf9-4422-9389-ebbc6c40f3ec}
+Tue Jan 10 2017 15:50:58.752 - 	-->Microphone (Realtek High Definition Audio),0,Microphone,Realtek High Definition Audio,{0.0.1.00000000}.{93a74e6d-e36a-4597-989f-e3b312fdbc98}
+Tue Jan 10 2017 15:50:58.752 - TerminateZombieProcesses()
+Tue Jan 10 2017 15:50:59.063 - [System] Prepare operating system environment
+Tue Jan 10 2017 15:50:59.064 - [System] Setting power settings to minimum power savings.
+Tue Jan 10 2017 15:50:59.425 - [System] Detected first setup.
+Tue Jan 10 2017 15:50:59.456 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Tue Jan 10 2017 15:50:59.475 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Tue Jan 10 2017 15:51:01.056 - Enabling direct mode for AMD [Vid=0xD222 Pid=0xAA01]...
+Tue Jan 10 2017 15:51:02.058 - Success!
+Tue Jan 10 2017 15:51:02.140 - [System] Transition from 'Off' to 'Starting'.
+Tue Jan 10 2017 15:51:02.513 - [System] Runtime: 1481926580 0  SteamVR
+Tue Jan 10 2017 15:51:15.095 - VR_Init failed with Shared IPC Connect Failed After Multiple Attempts (308)
+Tue Jan 10 2017 15:51:15.097 - Failed to set master process because control panel interface couldn't be retrieved
+Tue Jan 10 2017 15:51:15.097 - [Steam] Attempt to connect to Steam
+Tue Jan 10 2017 15:51:15.098 - Load Json firmware manifest from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\firmware\manifest.vrfirmware
+Tue Jan 10 2017 15:51:15.099 - [Bluetooth] Bluetooth init postponed
+Tue Jan 10 2017 15:51:15.099 - [Audio] Audio init: punting since no VRSettings()
+Tue Jan 10 2017 15:51:15.099 - [System] Check for dismissable warnings at init.
+Tue Jan 10 2017 15:51:15.099 - [System] No warnings about display in Extended Mode at first setup.
+Tue Jan 10 2017 15:51:15.604 - [System] System is running for 10 seconds.
+Tue Jan 10 2017 15:51:15.604 - [System] Check for dismissable warnings at startup.
+Tue Jan 10 2017 15:51:15.605 - [System] No warnings about missed frames at first setup.
+Tue Jan 10 2017 15:51:15.622 - [Status] Graphics driver version is 1.0.4.4.
+Tue Jan 10 2017 15:51:15.676 - [Status Alert] Hmm, that shouldn't have happened. (308)
+Tue Jan 10 2017 15:51:15.696 - PostGlobalSystemStatusEvent: No system latest available
+Tue Jan 10 2017 15:51:15.697 - [System] Transition from 'Starting' to 'Connecting'.
+Tue Jan 10 2017 15:51:15.698 - [Steam] Connected to Steam in 0.49 seconds.
+Tue Jan 10 2017 15:51:15.712 - [System] Runtime: 1481926580 250820  SteamVR
+Tue Jan 10 2017 15:51:15.715 - [Steam] Connect to Steam finished: check for dismissable warnings
+Tue Jan 10 2017 15:51:15.779 - [System] Transition from 'Connecting' to 'Not Ready'.
+Tue Jan 10 2017 15:52:21.283 - [System] Could not run openvr.tool.steamvr_room_setup, because VRApplications is not available.
+Tue Jan 10 2017 15:53:02.517 - [System] Transition from 'Not Ready' to 'Preparing to Quit...'.
+Tue Jan 10 2017 15:53:02.543 - [System] Quit gracefully...
+Tue Jan 10 2017 15:53:02.543 - [System] Transition from 'Preparing to Quit...' to 'Shutdown'.
+Tue Jan 10 2017 15:53:02.543 - [Audio] Audio shutdown!
+Tue Jan 10 2017 15:53:02.545 - [Bluetooth] Bluetooth shutdown (no power managed base stations)
+Tue Jan 10 2017 15:53:02.545 - [Bluetooth] Bluetooth Link stopped now
+Tue Jan 10 2017 15:53:02.545 - [Bluetooth] Wait for threads to finish (0)
+Tue Jan 10 2017 15:53:02.545 - [Bluetooth] Wait for worker thread to finish...
+Tue Jan 10 2017 15:53:02.545 - [Bluetooth] Wait for progress thread to finish...
+Tue Jan 10 2017 15:53:02.545 - [Bluetooth] Quit threads done
+Tue Jan 10 2017 15:53:02.546 - [System] Set VRMonitor PID to 0
+Tue Jan 10 2017 15:53:02.548 - Perf System Disabled
+Tue Jan 10 2017 15:53:02.555 - [System] Restore operating system environment
+Tue Jan 10 2017 15:53:02.555 - [System] Restore power settings to previous power savings.
+Tue Jan 10 2017 15:53:02.960 - [System] Set VRMonitor PID to 0
+Fri Jan 13 2017 00:31:56.878 - ================================================================================================
+Fri Jan 13 2017 00:31:56.879 - ================================================================================================
+Fri Jan 13 2017 00:31:56.879 - vrmonitor starting up with config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:31:56.879 - Runtime: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\
+Fri Jan 13 2017 00:31:56.880 - Tools Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools exists.
+Fri Jan 13 2017 00:31:56.881 - Demo Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\demo exists.
+Fri Jan 13 2017 00:31:58.561 - AUDIO: Refreshing audio devices
+Fri Jan 13 2017 00:31:58.623 - AUDIO: Detected 2 playback and 5 record devices
+Fri Jan 13 2017 00:31:58.625 - Default Playback Audio Device: {0.0.0.00000000}.{873ce428-dfe5-4cfc-b1ac-ac443fd84996}
+Fri Jan 13 2017 00:31:58.625 - 	-->Speaker/HP (Realtek High Definition Audio),0,Speaker/HP,Realtek High Definition Audio,{0.0.0.00000000}.{873ce428-dfe5-4cfc-b1ac-ac443fd84996}
+Fri Jan 13 2017 00:31:58.625 - Default Record Audio Device: {0.0.1.00000000}.{93a74e6d-e36a-4597-989f-e3b312fdbc98}
+Fri Jan 13 2017 00:31:58.626 - 	Stereo Mix (Realtek High Definition Audio),0,Stereo Mix,Realtek High Definition Audio,{0.0.1.00000000}.{5d1c11a4-dcf9-4422-9389-ebbc6c40f3ec}
+Fri Jan 13 2017 00:31:58.626 - 	-->Microphone (Realtek High Definition Audio),0,Microphone,Realtek High Definition Audio,{0.0.1.00000000}.{93a74e6d-e36a-4597-989f-e3b312fdbc98}
+Fri Jan 13 2017 00:31:58.626 - TerminateZombieProcesses()
+Fri Jan 13 2017 00:31:58.857 - [System] Prepare operating system environment
+Fri Jan 13 2017 00:31:58.858 - [System] Setting power settings to minimum power savings.
+Fri Jan 13 2017 00:31:59.111 - [System] Detected first setup.
+Fri Jan 13 2017 00:31:59.169 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:31:59.177 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:32:00.365 - Enabling direct mode for AMD [Vid=0xD222 Pid=0xAA01]...
+Fri Jan 13 2017 00:32:01.063 - Success!
+Fri Jan 13 2017 00:32:01.126 - [System] Transition from 'Off' to 'Starting'.
+Fri Jan 13 2017 00:32:01.520 - [System] Runtime: 1481926580 0  SteamVR
+Fri Jan 13 2017 00:32:04.872 - VR_Init failed with Hmd Not Found (108)
+Fri Jan 13 2017 00:32:04.888 - [Steam] Attempt to connect to Steam
+Fri Jan 13 2017 00:32:04.895 - Load Json firmware manifest from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\firmware\manifest.vrfirmware
+Fri Jan 13 2017 00:32:04.896 - [Bluetooth] Bluetooth init postponed
+Fri Jan 13 2017 00:32:04.896 - [Audio] Audio init
+Fri Jan 13 2017 00:32:04.896 - [System] Check for dismissable warnings at init.
+Fri Jan 13 2017 00:32:04.896 - [System] No warnings about display in Extended Mode at first setup.
+Fri Jan 13 2017 00:32:05.285 - [Status] Graphics driver version is 1.0.4.4.
+Fri Jan 13 2017 00:32:05.342 - [Status Alert] Headset not detected (108)
+Fri Jan 13 2017 00:32:05.357 - [System] Transition from 'Starting' to 'Connecting'.
+Fri Jan 13 2017 00:32:05.358 - [Steam] Connected to Steam in 0.35 seconds.
+Fri Jan 13 2017 00:32:06.532 - [System] Runtime: 1481926580 250820  SteamVR
+Fri Jan 13 2017 00:32:06.534 - [Steam] Connect to Steam finished: check for dismissable warnings
+Fri Jan 13 2017 00:32:06.662 - [System] Transition from 'Connecting' to 'Not Ready'.
+Fri Jan 13 2017 00:32:08.837 - [System] System is running for 10 seconds.
+Fri Jan 13 2017 00:32:08.837 - [System] Check for dismissable warnings at startup.
+Fri Jan 13 2017 00:32:08.838 - [System] No warnings about missed frames at first setup.
+Fri Jan 13 2017 00:32:20.235 - [System] Launching openvr.tool.steamvr_tutorial
+Fri Jan 13 2017 00:32:20.236 - [System] Launching openvr.tool.steamvr_tutorial failed because VRApplicationError_UnknownApplication
+Fri Jan 13 2017 00:33:21.178 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:33:21.180 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:33:21.251 - [System] Transition from 'Not Ready' to 'Restarting SteamVR...'.
+Fri Jan 13 2017 00:33:21.259 - [Status Alert] Headset not detected (108)
+Fri Jan 13 2017 00:33:21.282 - [System] Quit gracefully, power off devices and quit processes via dashboard ...
+Fri Jan 13 2017 00:33:21.283 - [System] Quit gracefully: Wait for quit...
+Fri Jan 13 2017 00:33:21.295 - [System] Transition from 'Restarting SteamVR...' to 'Shutdown'.
+Fri Jan 13 2017 00:33:21.295 - [Audio] Audio shutdown!
+Fri Jan 13 2017 00:33:21.296 - [Bluetooth] Bluetooth shutdown (no power managed base stations)
+Fri Jan 13 2017 00:33:21.296 - [Bluetooth] Bluetooth Link stopped now
+Fri Jan 13 2017 00:33:21.296 - [Bluetooth] Wait for threads to finish (0)
+Fri Jan 13 2017 00:33:21.296 - [Bluetooth] Wait for worker thread to finish...
+Fri Jan 13 2017 00:33:21.296 - [Bluetooth] Wait for progress thread to finish...
+Fri Jan 13 2017 00:33:21.297 - [Bluetooth] Quit threads done
+Fri Jan 13 2017 00:33:21.297 - [System] Set VRMonitor PID to 0
+Fri Jan 13 2017 00:33:21.339 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Fri Jan 13 2017 00:33:21.344 - [System] Restore operating system environment
+Fri Jan 13 2017 00:33:21.344 - [System] Restore power settings to previous power savings.
+Fri Jan 13 2017 00:33:21.817 - [System] Set VRMonitor PID to 0
+Fri Jan 13 2017 00:33:24.926 - ================================================================================================
+Fri Jan 13 2017 00:33:24.927 - ================================================================================================
+Fri Jan 13 2017 00:33:24.927 - vrmonitor starting up with config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:33:24.927 - Runtime: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\
+Fri Jan 13 2017 00:33:24.927 - Tools Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools exists.
+Fri Jan 13 2017 00:33:24.927 - Demo Path: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\demo exists.
+Fri Jan 13 2017 00:33:25.001 - AUDIO: Refreshing audio devices
+Fri Jan 13 2017 00:33:25.014 - AUDIO: Detected 2 playback and 5 record devices
+Fri Jan 13 2017 00:33:25.016 - Default Playback Audio Device: {0.0.0.00000000}.{873ce428-dfe5-4cfc-b1ac-ac443fd84996}
+Fri Jan 13 2017 00:33:25.016 - 	-->Speaker/HP (Realtek High Definition Audio),0,Speaker/HP,Realtek High Definition Audio,{0.0.0.00000000}.{873ce428-dfe5-4cfc-b1ac-ac443fd84996}
+Fri Jan 13 2017 00:33:25.016 - Default Record Audio Device: {0.0.1.00000000}.{93a74e6d-e36a-4597-989f-e3b312fdbc98}
+Fri Jan 13 2017 00:33:25.016 - 	Stereo Mix (Realtek High Definition Audio),0,Stereo Mix,Realtek High Definition Audio,{0.0.1.00000000}.{5d1c11a4-dcf9-4422-9389-ebbc6c40f3ec}
+Fri Jan 13 2017 00:33:25.016 - 	-->Microphone (Realtek High Definition Audio),0,Microphone,Realtek High Definition Audio,{0.0.1.00000000}.{93a74e6d-e36a-4597-989f-e3b312fdbc98}
+Fri Jan 13 2017 00:33:25.016 - TerminateZombieProcesses()
+Fri Jan 13 2017 00:33:25.112 - [System] Prepare operating system environment
+Fri Jan 13 2017 00:33:25.112 - [System] Setting power settings to minimum power savings.
+Fri Jan 13 2017 00:33:25.357 - [System] Detected first setup.
+Fri Jan 13 2017 00:33:25.359 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:33:25.361 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:33:26.072 - Enabling direct mode for AMD [Vid=0xD222 Pid=0xAA01]...
+Fri Jan 13 2017 00:33:26.821 - Success!
+Fri Jan 13 2017 00:33:26.823 - [System] Transition from 'Off' to 'Starting'.
+Fri Jan 13 2017 00:33:26.866 - [System] Runtime: 1481926580 0  SteamVR
+Fri Jan 13 2017 00:33:27.328 - VR_Init failed with Hmd Not Found (108)
+Fri Jan 13 2017 00:33:27.329 - [Steam] Attempt to connect to Steam
+Fri Jan 13 2017 00:33:27.330 - Load Json firmware manifest from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\firmware\manifest.vrfirmware
+Fri Jan 13 2017 00:33:27.331 - [Bluetooth] Bluetooth init postponed
+Fri Jan 13 2017 00:33:27.331 - [Audio] Audio init
+Fri Jan 13 2017 00:33:27.331 - [System] Check for dismissable warnings at init.
+Fri Jan 13 2017 00:33:27.331 - [System] No warnings about display in Extended Mode at first setup.
+Fri Jan 13 2017 00:33:27.410 - [Steam] Connected to Steam in 0.08 seconds.
+Fri Jan 13 2017 00:33:27.638 - [System] Runtime: 1481926580 250820  SteamVR
+Fri Jan 13 2017 00:33:27.639 - [Steam] Connect to Steam finished: check for dismissable warnings
+Fri Jan 13 2017 00:33:27.823 - [Status] Graphics driver version is 1.0.4.4.
+Fri Jan 13 2017 00:33:27.831 - [Status Alert] Headset not detected (108)
+Fri Jan 13 2017 00:33:27.839 - [System] Transition from 'Starting' to 'Connecting'.
+Fri Jan 13 2017 00:33:29.017 - [System] Transition from 'Connecting' to 'Not Ready'.
+Fri Jan 13 2017 00:33:35.104 - [System] System is running for 10 seconds.
+Fri Jan 13 2017 00:33:35.104 - [System] Check for dismissable warnings at startup.
+Fri Jan 13 2017 00:33:35.104 - [System] No warnings about missed frames at first setup.
+Fri Jan 13 2017 00:33:53.468 - [System] Transition from 'Not Ready' to 'Preparing to Quit...'.
+Fri Jan 13 2017 00:33:53.482 - [System] Quit gracefully, power off devices and quit processes via dashboard ...
+Fri Jan 13 2017 00:33:53.483 - [System] Quit gracefully: Wait for quit...
+Fri Jan 13 2017 00:33:53.508 - [System] Transition from 'Preparing to Quit...' to 'Shutdown'.
+Fri Jan 13 2017 00:33:53.508 - [Audio] Audio shutdown!
+Fri Jan 13 2017 00:33:54.509 - [Bluetooth] Bluetooth shutdown (no power managed base stations)
+Fri Jan 13 2017 00:33:54.509 - [Bluetooth] Bluetooth Link stopped now
+Fri Jan 13 2017 00:33:54.509 - [Bluetooth] Wait for threads to finish (0)
+Fri Jan 13 2017 00:33:54.509 - [Bluetooth] Wait for worker thread to finish...
+Fri Jan 13 2017 00:33:54.509 - [Bluetooth] Wait for progress thread to finish...
+Fri Jan 13 2017 00:33:54.509 - [Bluetooth] Quit threads done
+Fri Jan 13 2017 00:33:54.510 - [System] Set VRMonitor PID to 0
+Fri Jan 13 2017 00:33:54.580 - Drops over entire run:-  0 single frame-  0 2 frame-  0 3 frame-  0 4 or more- Total 0 in 0 frames
+Fri Jan 13 2017 00:33:54.585 - [System] Restore operating system environment
+Fri Jan 13 2017 00:33:54.585 - [System] Restore power settings to previous power savings.
+Fri Jan 13 2017 00:33:54.829 - [System] Set VRMonitor PID to 0

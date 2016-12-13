@@ -1,0 +1,8 @@
+Fri Jan 13 2017 00:32:06.379 - //=====================================================================================================================
+Fri Jan 13 2017 00:32:06.379 - VR compositor (v1481926580) starting up
+Fri Jan 13 2017 00:32:06.379 - RuntimePath : C:\Program Files (x86)\Steam\steamapps\common\SteamVR\
+Fri Jan 13 2017 00:32:06.530 - Failed to start compositor: VRInitError_Init_HmdNotFoundPresenceFailed
+Fri Jan 13 2017 00:33:27.546 - //=====================================================================================================================
+Fri Jan 13 2017 00:33:27.547 - VR compositor (v1481926580) starting up
+Fri Jan 13 2017 00:33:27.547 - RuntimePath : C:\Program Files (x86)\Steam\steamapps\common\SteamVR\
+Fri Jan 13 2017 00:33:27.636 - Failed to start compositor: VRInitError_Init_HmdNotFoundPresenceFailed

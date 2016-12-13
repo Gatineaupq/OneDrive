@@ -1,0 +1,74 @@
+Tue Jan 10 2017 15:51:10.646 - ================================================================================================
+Tue Jan 10 2017 15:51:10.647 - ================================================================================================
+Tue Jan 10 2017 15:51:10.676 - VR server (v0) starting up with config=C:\Program Files (x86)\Steam\config
+Tue Jan 10 2017 15:51:10.704 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Tue Jan 10 2017 15:51:10.718 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Tue Jan 10 2017 15:51:10.728 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Tue Jan 10 2017 15:51:10.731 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Tue Jan 10 2017 15:51:10.734 - Unable to read app config file from C:\Program Files (x86)\Steam\config\appconfig.json. No applications will be available
+Tue Jan 10 2017 15:51:10.809 - Load Json firmware manifest from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\firmware\manifest.vrfirmware
+Fri Jan 13 2017 00:32:03.726 - ================================================================================================
+Fri Jan 13 2017 00:32:03.727 - ================================================================================================
+Fri Jan 13 2017 00:32:03.735 - VR server (v0) starting up with config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:32:03.778 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:32:03.785 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:32:03.793 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:32:03.795 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:32:03.796 - Unable to read app config file from C:\Program Files (x86)\Steam\config\appconfig.json. No applications will be available
+Fri Jan 13 2017 00:32:03.878 - Load Json firmware manifest from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\firmware\manifest.vrfirmware
+Fri Jan 13 2017 00:32:03.898 - New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\bin\win32\vrmonitor.exe (VRApplication_VRMonitor) (Args: ) 5736 
+Fri Jan 13 2017 00:32:03.899 - Setting app system.generated.vrmonitor.exe PID to 5736
+Fri Jan 13 2017 00:32:04.696 - lighthouse: Attached HID Devices:
+Fri Jan 13 2017 00:32:04.696 - lighthouse:     No devices
+Fri Jan 13 2017 00:32:04.696 -   driver lighthouse implements interfaces IVRSettings_002 ITrackedDeviceServerDriver_004 IVRDisplayComponent_002 IVRDriverDirectModeComponent_002 IVRControllerComponent_001 IVRCameraComponent_002 IServerTrackedDeviceProvider_003 IClientTrackedDeviceProvider_005 
+Fri Jan 13 2017 00:32:04.697 - Loaded server driver lighthouse (IServerTrackedDeviceProvider_003) from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\bin\win64\driver_lighthouse.dll
+Fri Jan 13 2017 00:32:04.697 - Driver lighthouse has no devices. Skipping
+Fri Jan 13 2017 00:32:04.761 - error VRInitError_Driver_RuntimeOutOfDate when initing driver oculus from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\oculus\bin\win64\driver_oculus.dll.
+Fri Jan 13 2017 00:32:04.762 - Unable to load driver oculus because of error 204. Skipping.
+Fri Jan 13 2017 00:32:04.807 - error VRInitError_Driver_RuntimeOutOfDate when initing driver oculus_legacy from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\oculus_legacy\bin\win64\driver_oculus_legacy.dll.
+Fri Jan 13 2017 00:32:04.807 - Unable to load driver oculus_legacy because of error 204. Skipping.
+Fri Jan 13 2017 00:32:04.854 - error VRInitError_Init_HmdNotFound when initing driver null from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\bin\win64\driver_null.dll.
+Fri Jan 13 2017 00:32:04.854 - Unable to load driver null because of error 108. Skipping.
+Fri Jan 13 2017 00:32:04.854 - Active HMD not found. Returning best error VRInitError_Init_HmdNotFound
+Fri Jan 13 2017 00:32:04.854 - Allowing driver load failure VRInitError_Init_HmdNotFound for application vrmonitor (5736) because it is vrmonitor
+Fri Jan 13 2017 00:32:04.854 - Processing message VRMsg_Connect from vrmonitor (5736) took 0.967 seconds
+Fri Jan 13 2017 00:33:21.283 - Process vrmonitor (5736) has initiated a quit all
+Fri Jan 13 2017 00:33:21.293 - Sending Quit event to process vrmonitor (5736)
+Fri Jan 13 2017 00:33:21.297 - IPCPipe(vrmonitor (5736)): Process disconnected.
+Fri Jan 13 2017 00:33:21.297 - Process vrmonitor (5736) disconnected
+Fri Jan 13 2017 00:33:21.304 - VR server shutting down
+Fri Jan 13 2017 00:33:21.376 - Listener thread ending
+Fri Jan 13 2017 00:33:27.155 - ================================================================================================
+Fri Jan 13 2017 00:33:27.155 - ================================================================================================
+Fri Jan 13 2017 00:33:27.166 - VR server (v0) starting up with config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:33:27.170 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:33:27.171 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:33:27.172 - [Settings] Load Default Json Settings from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings
+Fri Jan 13 2017 00:33:27.174 - [Settings] Load Json Settings from C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:33:27.175 - Unable to read app config file from C:\Program Files (x86)\Steam\config\appconfig.json. No applications will be available
+Fri Jan 13 2017 00:33:27.178 - New Connect message from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\bin\win32\vrmonitor.exe (VRApplication_VRMonitor) (Args: ) 11276 
+Fri Jan 13 2017 00:33:27.179 - Setting app system.generated.vrmonitor.exe PID to 11276
+Fri Jan 13 2017 00:33:27.179 - Load Json firmware manifest from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\firmware\manifest.vrfirmware
+Fri Jan 13 2017 00:33:27.314 - lighthouse: Attached HID Devices:
+Fri Jan 13 2017 00:33:27.314 - lighthouse:     No devices
+Fri Jan 13 2017 00:33:27.314 -   driver lighthouse implements interfaces IVRSettings_002 ITrackedDeviceServerDriver_004 IVRDisplayComponent_002 IVRDriverDirectModeComponent_002 IVRControllerComponent_001 IVRCameraComponent_002 IServerTrackedDeviceProvider_003 IClientTrackedDeviceProvider_005 
+Fri Jan 13 2017 00:33:27.314 - Loaded server driver lighthouse (IServerTrackedDeviceProvider_003) from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\lighthouse\bin\win64\driver_lighthouse.dll
+Fri Jan 13 2017 00:33:27.314 - Driver lighthouse has no devices. Skipping
+Fri Jan 13 2017 00:33:27.318 - error VRInitError_Driver_RuntimeOutOfDate when initing driver oculus from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\oculus\bin\win64\driver_oculus.dll.
+Fri Jan 13 2017 00:33:27.318 - Unable to load driver oculus because of error 204. Skipping.
+Fri Jan 13 2017 00:33:27.320 - error VRInitError_Driver_RuntimeOutOfDate when initing driver oculus_legacy from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\oculus_legacy\bin\win64\driver_oculus_legacy.dll.
+Fri Jan 13 2017 00:33:27.320 - Unable to load driver oculus_legacy because of error 204. Skipping.
+Fri Jan 13 2017 00:33:27.323 - error VRInitError_Init_HmdNotFound when initing driver null from C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\bin\win64\driver_null.dll.
+Fri Jan 13 2017 00:33:27.323 - Unable to load driver null because of error 108. Skipping.
+Fri Jan 13 2017 00:33:27.323 - Active HMD not found. Returning best error VRInitError_Init_HmdNotFound
+Fri Jan 13 2017 00:33:27.323 - Allowing driver load failure VRInitError_Init_HmdNotFound for application vrmonitor (11276) because it is vrmonitor
+Fri Jan 13 2017 00:33:27.323 - Processing message VRMsg_Connect from vrmonitor (11276) took 0.145 seconds
+Fri Jan 13 2017 00:33:49.379 - [Settings] Save Json Settings to C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:33:49.380 - Processing message VRMsg_Settings_Sync from vrmonitor (11276) took 0.00683 seconds
+Fri Jan 13 2017 00:33:50.063 - [Settings] Save Json Settings to C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+Fri Jan 13 2017 00:33:53.483 - Process vrmonitor (11276) has initiated a quit all
+Fri Jan 13 2017 00:33:53.489 - Sending Quit event to process vrmonitor (11276)
+Fri Jan 13 2017 00:33:54.510 - IPCPipe(vrmonitor (11276)): Process disconnected.
+Fri Jan 13 2017 00:33:54.510 - Process vrmonitor (11276) disconnected
+Fri Jan 13 2017 00:33:54.511 - VR server shutting down
+Fri Jan 13 2017 00:33:54.568 - Listener thread ending

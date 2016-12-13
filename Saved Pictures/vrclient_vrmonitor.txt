@@ -1,0 +1,25 @@
+Tue Jan 10 2017 15:51:03.037 - //=====================================================================================================================
+Tue Jan 10 2017 15:51:03.038 - vrclient startup with PID=14388, type=VRApplication_VRMonitor, config=C:\Program Files (x86)\Steam\config
+Tue Jan 10 2017 15:51:03.434 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Tue Jan 10 2017 15:51:09.806 - Giving up server connection over pipe VR_ServerPipe after 50 attempts
+Tue Jan 10 2017 15:51:15.028 - Giving up waiting for vrserver to exit after 5000ms -- killing it
+Fri Jan 13 2017 00:32:01.946 - //=====================================================================================================================
+Fri Jan 13 2017 00:32:01.946 - vrclient startup with PID=5736, type=VRApplication_VRMonitor, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:32:02.260 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Fri Jan 13 2017 00:32:04.865 - Received success response from vrserver connect
+Fri Jan 13 2017 00:32:04.866 - [DriverManager] Create new Resource Driver Manager
+Fri Jan 13 2017 00:32:04.870 - [Chaperone] No chaperone data. C:\Program Files (x86)\Steam\config\chaperone_info.vrchap does not exist
+Fri Jan 13 2017 00:32:05.382 - Starting vrcompositor process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrcompositor.exe 
+Fri Jan 13 2017 00:32:06.530 - IPCPipe(VR_CompositorPipe): Process disconnected.
+Fri Jan 13 2017 00:32:06.530 - GetNextMessage failed while waiting for message of type VRMsg_CompositorConnectResponse on pipe VR_CompositorPipe
+Fri Jan 13 2017 00:32:06.530 - Invalid response to connect message. Connect failed
+Fri Jan 13 2017 00:33:26.941 - //=====================================================================================================================
+Fri Jan 13 2017 00:33:26.941 - vrclient startup with PID=11276, type=VRApplication_VRMonitor, config=C:\Program Files (x86)\Steam\config
+Fri Jan 13 2017 00:33:26.963 - Starting vrserver process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win64\vrserver.exe
+Fri Jan 13 2017 00:33:27.323 - Received success response from vrserver connect
+Fri Jan 13 2017 00:33:27.324 - [DriverManager] Create new Resource Driver Manager
+Fri Jan 13 2017 00:33:27.327 - [Chaperone] No chaperone data. C:\Program Files (x86)\Steam\config\chaperone_info.vrchap does not exist
+Fri Jan 13 2017 00:33:27.420 - Starting vrcompositor process: C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\win32\vrcompositor.exe 
+Fri Jan 13 2017 00:33:27.636 - IPCPipe(VR_CompositorPipe): Process disconnected.
+Fri Jan 13 2017 00:33:27.636 - GetNextMessage failed while waiting for message of type VRMsg_CompositorConnectResponse on pipe VR_CompositorPipe
+Fri Jan 13 2017 00:33:27.636 - Invalid response to connect message. Connect failed
